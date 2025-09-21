@@ -1,0 +1,10 @@
+{
+    "policy_groups": [
+        "audio",
+        "video",
+        "networking",
+        "keep-display-on"
+    ],
+    "policy_version": "@APPARMOR_POLICY@",
+    "template": "unconfined"
+}
