@@ -11,7 +11,7 @@ A port of modern fluffychat to Ubuntu Touch
 
 * #### Potentially fixable by Fluffychat team:
     * Flutter adaptive ui is not adaptive and doesn't recognize its in portrait.
-    * You cannot delete thorugh OSK for some reason (every other button works)
+    * You cannot delete through OSK for some reason (every other button works)
 
 * #### LANDSCAPE Issues:
     * Inputs on the right side of the screen do not work in landscape mode (fix coming when [this](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/207) is merged)
