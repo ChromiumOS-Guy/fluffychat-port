@@ -8,8 +8,10 @@ A port of modern fluffychat to Ubuntu Touch
 * Will crash if opened from OpenStore. (fix coming with mir2.x subsurface support)
 * Seperate Clipboard (copy/paste) then rest of system (fix coming with mir2.x subsurface support)
 * Opens on a weird XWayland transparent window you need to manually switch to the correct window.
-* Flutter adaptive ui is not adaptive and doesn't recognize its in portrait.
-* You cannot delete thorugh OSK for some reason (every other button works)
+
+* #### Potentially fixable by Fluffychat team:
+    * Flutter adaptive ui is not adaptive and doesn't recognize its in portrait.
+    * You cannot delete thorugh OSK for some reason (every other button works)
 
 * #### LANDSCAPE Issues:
     * Inputs on the right side of the screen do not work in landscape mode (fix coming when [this](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/207) is merged)
